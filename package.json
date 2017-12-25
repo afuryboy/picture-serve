@@ -1,0 +1,11 @@
+{
+  "name": "picture-serve",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts":{
+     "start": "git add . && git commit -m 'add pic' && git push"
+  },
+  "repository": "https://github.com/afuryboy/picture-serve.git",
+  "author": "qiankun",
+  "license": "MIT"
+}
